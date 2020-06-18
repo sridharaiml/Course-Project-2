@@ -31,4 +31,3 @@ ggplot(bothNEI, aes(x=factor(year), y=Emissions, fill=city)) +
   labs(title=expression("PM"[2.5]*" Motor Vehicle Source Emissions in Baltimore & LA, 1999-2008"))
 
 dev.off()
-© 2020 GitHub, Inc.
